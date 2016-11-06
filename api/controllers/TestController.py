@@ -1,8 +1,9 @@
-from api.models import Todo
-from api.responses import  req, res
+from api.models import Test
+from api.responses import req, res 
 
 def test():
-	return "hello world"
+	return "Test Server Working"
 
+def hello():
+  return "Hey ! This is a controller"
 
-#simple_page = Blueprint('simple_page', __name__)	
