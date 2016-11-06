@@ -1,0 +1,10 @@
+<controller>
+from api.models import {{Test}}
+from api.responses import  req, res
+</controller>
+<models>
+from config import Misc
+modelAttributes = {{attributes}}
+
+{{Test}}Table = Misc.mongo['{{Test}}']
+</models>

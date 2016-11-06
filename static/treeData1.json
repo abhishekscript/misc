@@ -1,0 +1,165 @@
+[
+  {
+    "name": "have VBP ROOT",
+    "parent": null,
+    "children": [
+      {
+        "name": "2 CD conj",
+        "parent": "have VBP ROOT",
+        "children": [
+          {
+            "name": "for IN prep",
+            "parent": "2 CD conj",
+            "children": [
+              {
+                "name": "2018 CD pobj",
+                "parent": "for IN prep",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "then RB dep",
+            "parent": "2 CD conj",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "? . punct",
+        "parent": "have VBP ROOT",
+        "children": []
+      },
+      {
+        "name": "I PRP nsubj",
+        "parent": "have VBP ROOT",
+        "children": []
+      },
+      {
+        "name": "and CC cc",
+        "parent": "have VBP ROOT",
+        "children": []
+      },
+      {
+        "name": "due JJ advcl",
+        "parent": "have VBP ROOT",
+        "children": [
+          {
+            "name": "If IN mark",
+            "parent": "due JJ advcl",
+            "children": []
+          },
+          {
+            "name": "RMD NN nsubj",
+            "parent": "due JJ advcl",
+            "children": [
+              {
+                "name": "first JJ amod",
+                "parent": "RMD NN nsubj",
+                "children": []
+              },
+              {
+                "name": "my PRP$ poss",
+                "parent": "RMD NN nsubj",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "and CC cc",
+            "parent": "due JJ advcl",
+            "children": []
+          },
+          {
+            "name": "in IN prep",
+            "parent": "due JJ advcl",
+            "children": [
+              {
+                "name": "2018 CD pobj",
+                "parent": "in IN prep",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "is VBZ cop",
+            "parent": "due JJ advcl",
+            "children": []
+          },
+          {
+            "name": "turn VBP conj",
+            "parent": "due JJ advcl",
+            "children": [
+              {
+                "name": "71 CD dobj",
+                "parent": "turn VBP conj",
+                "children": []
+              },
+              {
+                "name": "I PRP nsubj",
+                "parent": "turn VBP conj",
+                "children": []
+              },
+              {
+                "name": "in IN prep",
+                "parent": "turn VBP conj",
+                "children": [
+                  {
+                    "name": "dont NN pobj",
+                    "parent": "in IN prep",
+                    "children": [
+                      {
+                        "name": "Nov NNP nn",
+                        "parent": "dont NN pobj",
+                        "children": [
+                          {
+                            "name": "2017 CD num",
+                            "parent": "Nov NNP nn",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "withdraw VB xcomp",
+        "parent": "have VBP ROOT",
+        "children": [
+          {
+            "name": "for IN prep",
+            "parent": "withdraw VB xcomp",
+            "children": [
+              {
+                "name": "year NN pobj",
+                "parent": "for IN prep",
+                "children": [
+                  {
+                    "name": "that DT det",
+                    "parent": "year NN pobj",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "one CD dobj",
+            "parent": "withdraw VB xcomp",
+            "children": []
+          },
+          {
+            "name": "to TO aux",
+            "parent": "withdraw VB xcomp",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
